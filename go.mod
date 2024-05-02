@@ -1,3 +1,3 @@
-module colorful_logging
+module github.com/zamoosh/gocolorprint
 
 go 1.22
